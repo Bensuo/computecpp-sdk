@@ -1,10 +1,11 @@
+
+<div align="center">
+  <br /><img src="https://developer.codeplay.com/assets/img/home/tools/computecppsdk.png"><br />
+</div>
+
 # ComputeCpp SDK Readme
-
-![ComputeCpp™]
-
+[![Build and Test](https://github.com/codeplaysoftware/computecpp-sdk/actions/workflows/build-test.yml/badge.svg)](https://github.com/codeplaysoftware/computecpp-sdk/actions/workflows/build-test.yml)
 ## Introduction
-
-[![Build Status]](https://travis-ci.org/codeplaysoftware/computecpp-sdk)
 
 This is the README for the ComputeCpp SDK, a collection of sample code,
 utilities and tools for Codeplay’s ComputeCpp, an implementation of the
