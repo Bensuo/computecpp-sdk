@@ -4,7 +4,7 @@
 </div>
 
 # ComputeCpp SDK Readme
-[![Build and Test](https://github.com/codeplaysoftware/computecpp-sdk/actions/workflows/build-test.yml/badge.svg)](https://github.com/codeplaysoftware/computecpp-sdk/actions/workflows/build-test.yml)
+[![Build Status]](https://github.com/codeplaysoftware/computecpp-sdk/actions/workflows/build-test.yml)
 ## Introduction
 
 This is the README for the ComputeCpp SDK, a collection of sample code,
@@ -129,8 +129,8 @@ welcome! If you have an idea for a new sample, different build system
 integration or even a fix for something that is broken, please get in
 contact.
 
-[ComputeCpp™]: https://www.codeplay.com/public/uploaded/public/computecpp_logo.png
-[Build Status]: https://travis-ci.org/codeplaysoftware/computecpp-sdk.svg?branch=master
+[ComputeCpp™]: https://developer.codeplay.com/assets/img/home/tools/computecppsdk.png
+[Build Status]: https://github.com/codeplaysoftware/computecpp-sdk/actions/workflows/build-test.yml/badge.svg
 [step-by-step guide]: https://developer.codeplay.com/computecppce/latest/getting-started-guide
 [Integration guide]: https://developer.codeplay.com/computecppce/latest/integration-guide
 [FAQ page]: https://developer.codeplay.com/computecppce/latest/faq

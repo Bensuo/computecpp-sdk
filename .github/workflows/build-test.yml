@@ -43,7 +43,8 @@ jobs:
         run: |
           sudo apt update
           sudo apt install ${{matrix.compiler_package}} ocl-icd-opencl-dev opencl-headers ninja-build
-          bash scripts/build_computecpp.sh
+          bash .github/build_computecpp.sh
+
       - name: Build SDK
         run: |
           mkdir build && cd build
