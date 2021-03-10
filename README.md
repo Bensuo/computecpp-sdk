@@ -1,5 +1,7 @@
 
-![ComputeCpp™]
+<div align="center">
+  <br /><img src="https://developer.codeplay.com/assets/img/home/tools/computecppsdk.png"><br />
+</div>
 
 # ComputeCpp SDK Readme
 [![Build Status]](https://github.com/codeplaysoftware/computecpp-sdk/actions/workflows/build-test.yml)
